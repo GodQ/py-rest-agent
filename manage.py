@@ -3,7 +3,7 @@ from agent import app
 
 Usage = '''
     Usage: 
-        python manage.py run/stop/api-doc
+        python manage.py run/api-doc
         
 '''
 
